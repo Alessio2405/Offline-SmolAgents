@@ -1,0 +1,3 @@
+smolagents[mlx-lm]>=1.18.0
+
+rich>=12.0.0
